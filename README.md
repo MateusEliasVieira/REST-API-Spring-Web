@@ -1,2 +1,2 @@
-# REST-API-Spring-Web
+# REST API Spring Web
 Simples API REST com Spring Web
